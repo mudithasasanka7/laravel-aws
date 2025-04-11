@@ -3,7 +3,7 @@ name: Deploy Laravel to AWS Ubuntu
 on:
   push:
     branches:
-      - main # Triggers deployment when pushing to the main branch
+      - main #  Triggers deployment when pushing to the main branch
 
 jobs:
   deploy:
